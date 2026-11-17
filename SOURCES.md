@@ -958,3 +958,22 @@
 - 第553章《说服（下）》：https://www.hetushu.com/book/7427/5144025.html （搜索索引正文片段）
 
 补充说明：第543章另有芒果书坊同章索引片段：https://www.mangguoshufang.com/5/1970/read/330577.html ；第544章另有同站片段：https://www.mangguoshufang.com/5/1970/read/330578.html 。这些来源只用于交叉确认可见情节，不升级为连续全文。
+
+
+
+## 早期章节校勘来源与证据边界（2026-11-17晚）
+
+以下来源用于本轮第1—54章校勘；实际可读范围以章节主档记录为准，中途截断页不标为连续全文。
+
+- 第9章：番茄 https://fanqienovel.com/reader/7115188787881509391；小说之家 https://xszj.org/b/318907/c/9629736。
+- 第17章：https://www.hetushu.com/book/7427/5143489.html。
+- 第18章：和图书 https://www.hetushu.com/book/7427/5143490.html；小说之家 https://xszj.org/b/318907/c/9629745；番茄 https://fanqienovel.com/reader/7116302307863560743。
+- 第19章：https://xszj.org/b/318907/c/9629746。
+- 第20章：https://xszj.org/b/318907/c/9629760；和图书 https://www.hetushu.com/book/7427/5143492.html。
+- 第33—34章：第33章 https://xszj.org/b/318907/c/9629836、https://www.hetushu.com/book/7427/5143505.html；第34章 https://xszj.org/b/318907/c/9629839、https://www.hetushu.com/book/7427/5143506.html。
+- 第41章：用户提供连续正文为优先依据；外部辅助页 https://5165.org/wangluo/guizeguaitan/02114591905.html 与 https://m.bqgsn.cc/read/137740/41.html 存在错序/截断，仅用于分支交叉定位。
+- 第42章：https://www.hetushu.com/book/7427/5143514.html。
+- 第43章：https://www.hetushu.com/book/7427/5143515.html。
+- 第48—53章：小说之家独立页依次为 https://xszj.org/b/318907/c/9629934、https://xszj.org/b/318907/c/9629938、https://xszj.org/b/318907/c/9629953、https://xszj.org/b/318907/c/9629958、https://xszj.org/b/318907/c/9629968、https://xszj.org/b/318907/c/9629978。
+
+统一边界：用户正文优先于外部转载；外部页仅支持实际可读段落。推演死亡不等于现实事件，角色推断不等于世界观事实，邻章结果不替代本章正文。
