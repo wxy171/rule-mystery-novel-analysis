@@ -1213,3 +1213,17 @@
 - 第577章《后院失火（中）》：和图书独立章节页 https://www.hetushu.com/book/7427/5144049.html 。本轮打开返回403；搜索索引可见黑牙前特工身份、因替女儿报仇入狱、老翟释放黑牙并请求其协助、恶灵开门与花音最高保护指令等片段，仅作索引片段证据。
 
 证据边界：第572—576章为可读章节页正文行段，段落抽取顺序错乱，尚未逐字连续全文校勘；第577章仅搜索索引片段。不得升级为全章逐字验收。
+
+
+
+## 第70—77章《三口之家》副本终局来源（2026-11-17）
+- 第70章《羊肉（上）》：https://www.hetushu.com/book/7427/5143542.html
+- 第71章《羊肉（中）》：https://www.hetushu.com/book/7427/5143543.html
+- 第72章《羊肉（下）》：https://www.hetushu.com/book/7427/5143544.html
+- 第73章《暗月马戏团（上）》：https://www.hetushu.com/book/7427/5143545.html
+- 第74章《暗月马戏团（中）》：https://www.hetushu.com/book2/7427/5143546.html
+- 第75章《暗月马戏团（下）》：https://www.hetushu.com/book/7427/5143547.html
+- 第76章《调色盘》：https://www.hetushu.com/book/7427/5143548.html
+- 第77章《逃离里世界》：https://www.hetushu.com/book/7427/5143549.html
+- 目录交叉核验：https://www.hetushu.com/book/7427/index.html
+- 证据边界：搜索索引片段可见度较高，但推演与现实叙事混排；非用户正文逐字对照。
