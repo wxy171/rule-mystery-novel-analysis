@@ -133,3 +133,28 @@
   - **证据等级：正文片段核验。** 可见克里斯案件的心理侧写讨论、作案时机与法律漏洞分析。
 
 **第264—268章已补入正文片段级分析；仍不宣称全文逐字校勘。孟想与七名退役冒险者异常事件的因果关系继续列为待核验。**
+
+
+## 第369—383章正文片段来源（2026-11-17）
+
+- 第369章《阳光小区》：https://www.hetushu.com/book/7427/5143841.html
+- 第370章《组建家庭（上）》：https://www.hetushu.com/book/7427/5143842.html
+- 第371章《组建家庭（中）》：https://www.hetushu.com/book/7427/5143843.html
+- 第372章《组建家庭（下）》：https://www.hetushu.com/book/7427/5143844.html
+- 第373章《罚款》：https://www.hetushu.com/book/7427/5143845.html
+- 第374章《穿越空间的方式》：https://www.hetushu.com/book/7427/5143846.html
+- 第375章《学校教育（上）》：https://www.hetushu.com/book/7427/5143847.html
+- 第376章《学校教育（下）》：https://www.hetushu.com/book/7427/5143848.html
+- 第377章《娃娃的真正作用》：https://www.hetushu.com/book/7427/5143849.html
+- 第378章《偷电脑（上）》：https://www.hetushu.com/book/7427/5143850.html
+- 第379章《偷电脑（下）》：https://www.hetushu.com/book/7427/5143851.html
+- 第380章《要用魔法打败魔法》：https://www.hetushu.com/book/7427/5143852.html
+- 第381章《无法消灭（上）》：https://www.hetushu.com/book/7427/5143853.html
+  - **证据等级：目录确认；正文待补。** 仅能确认标题与顺序。
+- 第382章《无法消灭（下）》：https://www.hetushu.com/book/7427/5143854.html
+  - **证据等级：目录确认；正文待补。** 仅能确认标题与顺序。
+- 第383章《标签的正确使用方法》：https://www.hetushu.com/book/7427/5143855.html
+- 目录交叉核对：https://www.hetushu.com/book/7427/index.html
+  - **证据等级：目录确认。** 只用于章节标题与顺序。
+
+**本批正文片段核验范围：第369—380、383章；第381—382章未取得足够正文。羊肉来源、标签是否直接改变物质属性、王志明的主体身份均保留为待核验。**
