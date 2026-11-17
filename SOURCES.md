@@ -1190,3 +1190,15 @@
 - 第62章：https://www.hetushu.com/book/7427/5143534.html 。搜索索引片段包含癌症药物、钥匙赝品、三楼黑匣子/巨蟒、父母影响倒计时的角色推断及妹妹日记小丑线索。
 - 目录：https://www.hetushu.com/book/7427/index.html 。
 - 证据边界：两章均为索引片段，未完成连续顺序正文核验或用户正文逐字对照。
+
+
+## 第63—69章《三口之家》补校来源（2026-11-17）
+- 第63章《迎亲队伍（上）》：https://www.hetushu.com/book/7427/5143535.html
+- 第64章《迎亲队伍（下）》：https://www.hetushu.com/book/7427/5143536.html
+- 第65章《入院证明》：https://www.hetushu.com/book/7427/5143537.html
+- 第66章《重病的外婆》：https://www.hetushu.com/book/7427/5143538.html
+- 第67章《今天弄了几头羊》：https://www.hetushu.com/book/7427/5143539.html
+- 第68章《逐渐诡异的日记》：https://www.hetushu.com/book/7427/5143540.html
+- 第69章《医院纵火》：https://www.hetushu.com/book/7427/5143541.html
+- 目录交叉核验：https://www.hetushu.com/book/7427/index.html
+- 证据边界：63—64、65、67章为错序/交错片段；66、68、69章可读正文；均非用户正文逐字对照。
