@@ -167,3 +167,24 @@
 - 第297章《暴怒（上）》：https://www.hetushu.com/book/7427/5143769.html
   - **证据等级：正文片段核验。** 可见红死病病程、罗塞将军的卫生条例、城邦居民对自由与公共安全的冲突，以及“修罗”、咬咬和吞吞的图鉴信息。
 - 第293—294章《怠惰（三）（四）》、第306章《礼貌（下）》：本轮未取得足够正文片段，继续标为待补。
+
+
+## 第384—397章正文片段来源（2026-11-17）
+
+- 第384章《小王羊肉馆（一）》：https://www.hetushu.com/book/7427/5143856.html
+- 第385章《小王羊肉馆（二）》：https://www.hetushu.com/book/7427/5143857.html
+- 第386章《小王羊肉馆（三）》：https://www.hetushu.com/book/7427/5143858.html
+- 第387章《小王羊肉馆（四）》：https://www.hetushu.com/book/7427/5143859.html
+- 第388章《售楼处（上）》：https://www.hetushu.com/book/7427/5143860.html
+- 第389章《售楼处（下）》：https://www.hetushu.com/book/7427/5143861.html
+- 第390章《售楼处的真正作用》：https://www.hetushu.com/book/7427/5143862.html
+- 第391章《营销中心》：https://www.hetushu.com/book/7427/5143863.html
+- 第392章《任务报告》：https://www.hetushu.com/book/7427/5143864.html
+- 第393章《我亲爱的韭菜》：https://www.hetushu.com/book/7427/5143865.html
+- 第394章《他不在这里》：https://www.hetushu.com/book/7427/5143866.html
+- 第395章《绝笔信（上）》：https://www.hetushu.com/book/7427/5143867.html
+- 第396章《绝笔信（下）》：https://www.hetushu.com/book/7427/5143868.html
+- 第397章《诡异的折纸玩具》：https://www.mangguoshufang.com/5/1970/read/330431.html
+  - **统一证据等级：正文片段核验。** 可检索片段支持章节档案中的事件与机制，不等于全文逐字校勘。
+- 和图书目录：https://www.hetushu.com/book/7427/index.html
+  - **证据等级：目录确认。** 用于核对标题与顺序。
